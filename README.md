@@ -18,7 +18,6 @@ Before you begin, ensure you have the following installed:
 
 - [PHP](https://www.php.net/manual/en/install.php)
 - [Composer](https://getcomposer.org/)
-- [Node.js](https://nodejs.org/)
 - [NPM](https://www.npmjs.com/)
 
 ## Getting Started
